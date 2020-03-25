@@ -8,5 +8,9 @@
 # Maven
 ######################
 /log/
-/target/
-
+/target/test-classes/
+/target/classes/
+/target/repository/
+/target/temp/
+/target/META-INF/
+/target/test-mule
